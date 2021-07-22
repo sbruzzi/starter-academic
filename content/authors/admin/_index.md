@@ -1,17 +1,18 @@
 ---
 title: Elton Sbruzzi
-role: Lecturer in Data Science and Artificial Intelligence
-bio: My research interests include machine learning applied to finance and
-  investments
-interests:
-  - Data Science
+role: Lecturer in Data Science in Finance & Investments
+bio: My research interests include machine learning, statistics and mathematics
+  applied to quantitative finance and investment management
+interests: []
 social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/eltonsbruzzi/
+    display:
+      header: true
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
@@ -30,10 +31,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-PhD in Computational Finance from the University of Essex. I have built my careers in the academic finance area. My uniqueness is the interdisciplinary expertise that covers more than one area in analytics and data analysis application in investments. In this line, my research proposes the use of machine learning techniques to portfolio management. As a result, I have more than 20 peer-reviewed publications in this area. My publications can easily be viewed in the section Publications.
+PhD in Computational Finance from the University of Essex, my uniqueness is the interdisciplinary expertise that covers more than one area in analytics and data analysis application in finance and investments. As a result, I have more than 20 peer-reviewed publications in this area. 
 
-Currently, I am Lecturer in Econometrics and Investments in Postgraduate courses at the Instituto Tecnológico de Aeronáutica (Acronym ITA in Portuguese) in Brazil. I was contracted after a selection process for Lecturers in the areas of Artificial Intelligence and Data Science.
+Currently, I am a Lecturer in the area of data science in finance and investments at the Instituto Tecnológico de Aeronáutica (Acronym ITA in Portuguese) in Brazil. 
 
-In 2021, I was awarded with the license for Investment Management by the Brazilian Securities and Exchange Commission (Acronym CVM in Portuguese) at the exclusive modality of "NOTORIOUS KNOWLEDGE". I am the first professional awarded with this license since 2018.
+In 2021, I was awarded with the license for investment management by the Brazilian Securities and Exchange Commission (Acronym CVM in Portuguese) at the exclusive modality of "NOTORIOUS KNOWLEDGE". This license was awarded after an analysis of the contributions of my research to the investment management area. I am the first professional awarded with this license since 2018.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
