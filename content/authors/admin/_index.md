@@ -18,16 +18,16 @@ organizations:
     url: http://www.ita.br
 education:
   courses:
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
     - course: PhD in Computational Finance
       institution: University of Essex
       year: 2013
-email: ""
+    - course: MSc in Economics
+      institution: Universidade Federal do Rio Grande do Sul
+      year: 2002
+    - course: BSc in Economics
+      institution: Universidade de Campinas
+      year: 2000
+email: elton@ita.br
 superuser: true
 highlight_name: false
 ---
