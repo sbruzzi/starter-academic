@@ -14,7 +14,7 @@ social:
     display:
       header: true
 organizations:
-  - name: Aeronautics Institute of Technology
+  - name: Instituto Tecnológico de Aeronáutica
     url: http://www.ita.br
 education:
   courses:
