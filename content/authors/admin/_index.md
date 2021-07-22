@@ -23,7 +23,7 @@ education:
       year: 2013
     - course: MSc in Economics
       institution: Universidade Federal do Rio Grande do Sul
-      year: 2002
+      year: 2004
     - course: BSc in Economics
       institution: Universidade de Campinas
       year: 2000
