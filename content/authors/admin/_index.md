@@ -1,6 +1,7 @@
 ---
 title: Elton Sbruzzi
 role: Lecturer in Data Science to Finance & Investments
+avatar_filename: foto_rosto.jpg
 bio: My research interests include machine learning, statistics and mathematics
   applied to quantitative finance and investment management
 interests: []
