@@ -1,8 +1,8 @@
 ---
 title: Elton Sbruzzi
-role: Lecturer in Data Science
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+role: Lecturer in Data Science and Artificial Intelligence
+bio: My research interests include machine learning applied to finance and
+  investments
 interests:
   - Data Science
 social:
@@ -30,9 +30,10 @@ email: ""
 superuser: true
 highlight_name: false
 ---
+PhD in Computational Finance from the University of Essex. I have built my careers in the academic finance area. My uniqueness is the interdisciplinary expertise that covers more than one area in analytics and data analysis application in investments. In this line, my research proposes the use of machine learning techniques to portfolio management. As a result, I have more than 20 peer-reviewed publications in this area. My publications can easily be viewed in the section Publications.
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Currently, I am Lecturer in Econometrics and Investments in Postgraduate courses at the Instituto Tecnológico de Aeronáutica (Acronym ITA in Portuguese) in Brazil. I was contracted after a selection process for Lecturers in the areas of Artificial Intelligence and Data Science.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In 2021, I was awarded with the license for Investment Management by the Brazilian Securities and Exchange Commission (Acronym CVM in Portuguese) at the exclusive modality of "NOTORIOUS KNOWLEDGE". I am the first professional awarded with this license since 2018.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
