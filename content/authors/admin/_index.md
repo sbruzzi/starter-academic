@@ -31,6 +31,6 @@ email: elton@ita.br
 superuser: true
 highlight_name: false
 ---
-PhD in Computational Finance from the University of Essex, my uniqueness is the interdisciplinary expertise that covers more than one area in analytics and data analysis application in finance and investments. As a result, I have more than 20 peer-reviewed publications in this area. Currently, I am a Lecturer in the area of data science in finance and investments at the Instituto Tecnológico de Aeronáutica (Acronym ITA in Portuguese) in Brazil. 
+PhD in Computational Finance from the University of Essex, my uniqueness is the interdisciplinary expertise that covers more than one area in analytics and data analysis application in finance and investments. As a result, I have more than 20 peer-reviewed publications in this area. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
