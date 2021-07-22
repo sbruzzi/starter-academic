@@ -23,6 +23,9 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
+    - course: PhD in Computational Finance
+      institution: University of Essex
+      year: 2013
 email: ""
 superuser: true
 highlight_name: false
