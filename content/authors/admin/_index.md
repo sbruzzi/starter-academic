@@ -14,8 +14,8 @@ social:
     display:
       header: true
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Aeronautics Institute of Technology
+    url: http://www.ita.br
 education:
   courses:
     - course: MEng in Artificial Intelligence
